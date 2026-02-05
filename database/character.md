@@ -13,9 +13,11 @@ copyright: >
   对于标有(**)的条目，其描述文本复制/翻译自萌娘百科，遵循原始许可协议（即知识共享(Creative Commons) 署名-非商业性使用-相同方式共享
   3.0 协议）进行二次分发。
 rules:
-  - 优先写官方的中文名称，当无官方中译时可以使用公认的中文名称，本命名空间**暂不接受日文名称**。
-  - 第一推荐[萌娘百科](https://zh.moegirl.org.cn/)，也可以用百度百科或维基百科查译名。
-  - 为提高图片可用性，以及减轻萌娘百科服务器压力，引用来自萌娘百科的图片时请使用图床，如[流浪图床](https://p.sda1.dev/)。
+  - 优先使用官方的中文译名，无官方译名时可以使用公认的中文名称，本命名空间**暂不接受日文名称**。
+  - 资料参考建议使用[萌娘百科](https://zh.moegirl.org.cn/)和[Fandom](https://www.fandom.com/)，也可以用百度百科或维基百科查询角色信息。
+  - 配图请勿使用R18图片，优先使用官方角色形象或流传度较广的二创形象。萌娘百科服务器压力较大，建议使用Fandom的图片，或使用图床如[流浪图床](https://p.sda1.dev/)。
+  - 标注日文名称时请不要将日语和空耳罗马音交叉混合，这样无法有效检索。
+  - 角色介绍不宜出现剧透和大量文本，以及容易串名其他标签的介绍，这会导致联想检索效率降低。
 example:
   raw: ruri gokou
   name: 五更琉璃（黑猫）
@@ -5153,7 +5155,7 @@ example:
 | black swan | 黑天鹅 | ![](https://patchwiki.biligame.com/images/sr/thumb/a/af/payusvzxpo9mso33fml1trp9qtr39j5.png/1050px-黑天鹅立绘.png)<br>所属作品：`honkai star rail`<br>「流光忆庭」的忆者，神秘优雅的占卜师。 | [萌娘百科](https://zh.moegirl.org.cn/黑天鹅%28星穹铁道%29#) |
 | gaming yip | 嘉明 |  |  |
 | dunyarzad homayani | 迪娜泽黛 | ![](https://ehgt.org/fa/50/fa50e5e11a18f51c5d5bf61fe2541b0b4108a038-395259-420-720-png_l.jpg)<br>所属作品：`genshin impact`<br>患有魔鳞病的年轻少女，几乎每一天都只能躺在病床上，为了不让自己剩余人生留下遗憾 ，在花神诞日即将到来之际逃出自家筹办花神诞祭。 | [萌娘百科](https://zh.moegirl.org.cn/迪娜泽黛) |
-| sparkle | 花火 | ![](https://ehgt.org/w/02/202/94448-nzvnutm9.webp)<br>所属作品：`honkai star rail`<br>「假面愚者」的成员之一，难以捉摸，不择手段。<br>危险的戏剧大师，沉迷于扮演，身怀千张假面，能化万种面相。<br>![](https://patchwiki.biligame.com/images/sr/thumb/b/b5/7zgd5kv12cw5nkj37vb2wn9u6p7fbbb.png/1050px-花火立绘.png) | [萌娘百科](https://zh.moegirl.org.cn/花火%28星穹铁道%29#) |
+| sparkle | 花火 | ![](https://patchwiki.biligame.com/images/sr/thumb/b/b5/7zgd5kv12cw5nkj37vb2wn9u6p7fbbb.png/1050px-花火立绘.png)<br>所属作品：`honkai star rail`<br>「假面愚者」的成员之一，难以捉摸，不择手段。<br>危险的戏剧大师，沉迷于扮演，身怀千张假面，能化万种面相。 | [萌娘百科](https://zh.moegirl.org.cn/花火%28星穹铁道%29#) |
 | senadina | 希娜狄雅 | 「你好，世界！」诞生自数据之海的少女，对身边的一切都很感兴趣。在寻梦的旅途中，她将和你一道，经历各式各样的冒险，结识各式各样的伙伴。对了——如果深夜时分她还来找你，记得要带她去吃烧烤。 | [萌娘百科](https://zh.moegirl.org.cn/希娜狄雅)<br>[https://bbs.mihoyo.com/bh3/wiki/content/3071/detail?visit\_device=mobile&bbs\_presentation\_style=no\_header](https://bbs.mihoyo.com/bh3/wiki/content/3071/detail?visit_device=mobile&bbs_presentation_style=no_header) |
 | satoshi mizukami | 水上敏志 | 所属作品: `p:world trigger` |  |
 | secelia dote | 塞西莉亚·多特 |  | [百度百科](https://baike.baidu.com/item/塞西莉亚·多特/63369768)<br>[水星的魔女 Wiki Fandom](https://g-witch.fandom.com/zh/wiki/塞西莉亚·多特) |
